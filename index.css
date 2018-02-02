@@ -1,0 +1,150 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.big{
+	width: 402px;
+	height: 832px;
+	border-radius: 55px;
+	position: relative;
+    float: left;
+    margin-right: 100px;
+
+}
+.picture{
+	width: 402px;
+	height: 832px;
+	border-radius: 55px;
+}
+
+.top{
+	width: 300px;
+    height: 86px;
+    background: #f6fcfc;
+    position: absolute;
+    top: 12px;
+    left: 53px;
+}
+.top1{
+	width: 94px;
+    height: 89px;
+    float: left;
+    overflow: hidden;
+  
+ 
+}
+.top2{
+	width: 180px;
+    height: 89px;
+    float: right;
+    position: relative;
+}
+.circle1{
+	width: 13px;
+    height: 13px;
+    background: #000;
+    border-radius: 50%;
+    float: right;
+    margin-top: 36px;
+
+ 
+}
+.circle2{
+	width: 10px;
+    height: 10px;
+    background: #000;
+    position: absolute;
+    top: 12px;
+    left: 27px;
+    border-radius: 50%;
+
+ 
+}
+.circle3{
+	width: 64px;
+    height: 6px;
+    background: #000;
+    border-radius: 10px;
+    float: left;
+    margin-top: 40px;
+
+ 
+}
+.tupian{
+	width: 352px;
+    height: 623px;
+    background: #000;
+    position: absolute;
+    top: 103px;
+    left: 26px;
+}
+.pp{
+	width: 352px;
+    height: 622px;
+   
+}
+.bom{
+    width: 67px;
+    height: 67px;
+    background: #f1f7f7;
+    position: absolute;
+    bottom: 23px;
+    left: 171px;
+
+}
+.anniu{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 5px solid #d5a4b7;
+
+}
+
+.shang{
+    width: 96px;
+    height: 45px;
+    background: #fed3e4;
+    position: absolute;
+    top: 19px;
+    left: 56px;
+}
+.shang1{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: #000;
+    float: left;
+
+ 
+}
+.shang2{
+    width: 44px;
+    height: 45px;
+    float: right;
+    position: relative;
+ 
+}
+.shang21{
+    width: 10px;
+    height: 10px;
+    background: #000;
+    float: left;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+.shang22{
+    width: 25px;
+    height: 25px;
+    background: #000;
+    float: right;
+    border-radius: 50%;
+    margin-top: 11px;
+}
+
+
